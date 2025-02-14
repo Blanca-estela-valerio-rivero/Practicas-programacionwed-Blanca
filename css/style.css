@@ -11,3 +11,7 @@ p{
     font-size: 25px;
     color: blue;
 }
+
+.img-p{
+border-radius: 50%;
+}
