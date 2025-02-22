@@ -1,7 +1,7 @@
 p{
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
-    color: black;
+    color: rgb(124, 25, 25);
 }
 
 
@@ -9,7 +9,7 @@ p{
 .parrafotitulo{
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
-    color: blue;
+    color: rgb(199, 18, 184);
 }
 
 .img-p{
