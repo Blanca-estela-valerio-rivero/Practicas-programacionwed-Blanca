@@ -1,0 +1,26 @@
+.boton1{
+background-color: #004466;
+
+}
+
+.boton2{
+    border-radius: 15px;
+    background-color: hsla(325, 100%, 20%, 0.74);
+    color: antiquewhite;
+    padding: 10px 20px;
+    
+    } 
+
+
+
+
+    
+    .boton3{
+        border-radius: 15px;
+        background-color: hsl(320, 89%, 32%);
+        color: rgb(202, 119, 11);
+        padding: 10px 20px;
+        text-align: none;
+        font-size:  30px;
+        font-family: cursive;
+        }
